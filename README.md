@@ -1,13 +1,14 @@
 # Blinkit Sales Analysis Dashboard
 
 
-![Screenshot 2025-05-04 134833](https://github.com/user-attachments/assets/29f17787-b897-43a0-ae38-f9a2396f5566)
+
 
 ## 📊 Project Overview
 
 This Power BI dashboard presents a comprehensive sales analysis for **Blinkit**, India's last-minute grocery app. The dashboard visualizes performance metrics across various dimensions such as outlet size, item type, fat content, outlet location, and establishment year. It is designed to help stakeholders quickly grasp the key drivers behind sales performance and operational efficiency.
 
 ---
+![Screenshot 2025-05-04 134833](https://github.com/user-attachments/assets/29f17787-b897-43a0-ae38-f9a2396f5566)
 
 ## 📌 Key Insights
 
@@ -50,6 +51,8 @@ These filters allow dynamic exploration and slicing of the data for more targete
 
 ## 📁 Files Included
 
+- `Blinkit_Sales_Dashboard.pbix`: Power BI dashboard file used for visualization.
+- `Blinkit_Sales_Data.xlsx`: Raw data file used as the data source.
 - `Screenshot 2025-05-04 134833.png`: Visual snapshot of the Power BI dashboard.
 - `README.md`: Project documentation and summary.
 
